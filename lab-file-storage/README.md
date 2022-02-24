@@ -1,6 +1,5 @@
            
-														
-								   ***The File Storage***
+# ***The File Storage***
 
 To log in to the application, you must enter in the command line:
 FileStorage.exe -l "login" -p "password"
