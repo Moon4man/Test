@@ -1,14 +1,13 @@
            
-														----------------
-														The File Storage
-														----------------
+														
+										<h1>The File Storage</h1>
+											----------------
 
 To log in to the application, you must enter in the command line:
 FileStorage.exe -l "login" -p "password"
 
 --------------------------------
 Login: SomeUser
-
 Password: MyLittlePony45
 --------------------------------
 
